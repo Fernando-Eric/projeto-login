@@ -50,3 +50,15 @@ section#login > div#form {
     display: block;
     padding: 10px;
 }
+
+div#form h1 {
+    color: #203F59;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#form p {
+    color: #7592ad;
+    text-align: center;
+    font-size: .8em;
+}
